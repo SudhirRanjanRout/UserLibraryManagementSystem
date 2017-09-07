@@ -1,0 +1,48 @@
+#left-col{
+    position: absolute;
+    right: 50%;
+    left: 0;
+    top: 0;
+    bottom: 30px;
+    background: #aabbcc; 
+    height: 100%;
+    }
+
+#right-col {
+    position:absolute;
+    left: 40%;
+    right: 0;
+    top: 0;
+    bottom: 30px;   
+    width: 70%;
+    height: 100%; 
+     }
+    
+    .inner-circle{
+     position:absolute;
+     margin-top: 130px;
+    left: 30%;
+    right: 0;
+    top: 0;
+    bottom: 30px;   
+    width: 70%;
+    height: 100%; 
+    
+    }
+    
+    h1{
+    	color: Cyan !important;
+    }
+    
+    h2{
+    	color: blue !important;
+    }
+    
+    .form-login{
+    	width: 60%;
+    }
+    
+    .btn{
+    		width: 38%;
+    		margin-left: 80px;
+    }

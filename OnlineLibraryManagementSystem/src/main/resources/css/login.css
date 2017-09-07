@@ -1,0 +1,48 @@
+#top-left {
+    background-color: blue;
+    height: 100%;
+}
+
+#bottom-left {
+    background-color: green;
+    height: auto;
+    position: absolute;
+    bottom: 0px;
+}
+
+#left-col{
+    position: absolute;
+    
+     left: 30%;
+    right: 0;
+    top: 0;
+    bottom: 30px;
+    background: #aabbcc; 
+    height: 100%;
+    width: 70%}
+
+#right-col {
+    position:absolute;
+    overflow: auto;
+    left: 30%;
+    right: 0;
+    top: 0;
+    bottom: 30px;   
+    width: 70%;
+    height: 100%; 
+    }
+    
+    .inner-circle{
+     position:absolute;
+    left: 30%;
+    right: 0;
+    top: 0;
+    bottom: 30px;   
+    width: 70%;
+    height: 100%; 
+ 
+    }
+    
+    h1{
+    	color: red !important;
+    }
